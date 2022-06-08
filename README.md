@@ -1,4 +1,4 @@
-# this is the final presentation of our english presentation
+# this is the final presentation of our english
 
 it is a madical Q&A system based on konwledge
 
